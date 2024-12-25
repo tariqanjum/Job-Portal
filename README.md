@@ -13,7 +13,7 @@ experience enum('Fresher','Experienced')
 appliedDate date 
 skills text 
 status varchar(20)
--------------------------------------
+
 Table 2: jobs
 Columns:
 job_id int AI PK 
@@ -35,7 +35,7 @@ contact_information varchar(100)
 vacancy int 
 percentage varchar(100) 
 status varc
-----------------------------------------------------------
+
 Table 3 : jobs
 Columns:
 job_id int AI PK 
@@ -57,7 +57,7 @@ contact_information varchar(100)
 vacancy int 
 percentage varchar(100) 
 status varc
--------------------------------------------------------------------------
+
 
 Table 4: seeker
 Columns:
@@ -77,7 +77,7 @@ experience enum('experienced','fresher')
 period decimal(3,2) 
 picture varchar(255) 
 skills text
--------------------------------------------------------------
+
 Table 5: users
 Columns:
 id int AI PK 
@@ -87,4 +87,4 @@ phone varchar(45)
 category varchar(45) 
 date datetime 
 pin int
-----------------***************************---------------------
+
